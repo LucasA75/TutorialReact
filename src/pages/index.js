@@ -1,3 +1,4 @@
 import UseCallback from "./UseCallback";
+import UseState from "./UseState";
 
-export {UseCallback}
+export {UseCallback, UseState}

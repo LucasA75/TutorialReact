@@ -11,6 +11,9 @@ const Home = () => {
     <button>
     <Link to="/useCallback">useCallback</Link>
     </button>
+    <button>
+    <Link to="/useState">useState</Link>
+    </button>
     </div>
     </div>
   )
