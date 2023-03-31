@@ -1,0 +1,11 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.Navbar section{
+    display: flex;
+    gap: 30px;
+    margin-right: 30px;
+}
